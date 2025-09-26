@@ -164,4 +164,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## License
 
-[MIT](LICENSE) © Andrey Kucherenko
+[MIT](LICENSE) © Orion Knight
